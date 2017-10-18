@@ -1,5 +1,7 @@
 # SFO-Theater-Locations
 
+App is Build to find 500+ Theater location in San Francisco.
+
 
 <img width="291" alt="2" src="https://user-images.githubusercontent.com/20498328/31468243-d151d11e-ae91-11e7-947e-c8d4c6d066e4.png">
 <img width="287" alt="3" src="https://user-images.githubusercontent.com/20498328/31468244-d1682c34-ae91-11e7-960e-5a71688f2e2e.png">
